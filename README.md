@@ -101,4 +101,5 @@ The Lead Assignment & Auto-Nurture System automates lead management within Sales
 
 
 ## Contact
-- [Trailblazer Profile](https://www.salesforce.com/trailblazer/krekhachowdary)  
+- [Trailblazer Profile](https://www.salesforce.com/trailblazer/krekhachowdary)
+- chowdaryrekhakommineni@gmail.com
